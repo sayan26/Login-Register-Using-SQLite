@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sqllite</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">E-Mail</string>
+    <string name="hint_password">Password</string>
+    <string name="error_message_email">E-mail not valid</string>
+    <string name="error_valid_email_password">Password Incorrect</string>
+    <string name="error_password_match">Password Does Not Match</string>
+    <string name="success_message">Registration Successfull</string>
+    <string name="error_email_exists">E-mail already exists</string>
+    <string name="error_message_password">Password Incorrect</string>
+    <string name="error_message_name">Name Incorrect</string>
+
+
+</resources>
